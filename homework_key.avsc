@@ -1,0 +1,11 @@
+{
+  "namespace": "com.example.homework",
+  "type": "record",
+  "name": "HomeworkKey",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    }
+  ]
+}

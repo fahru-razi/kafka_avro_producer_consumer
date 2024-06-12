@@ -1,0 +1,35 @@
+{
+  "namespace": "com.example.homework",
+  "type": "record",
+  "name": "HomeworkValue",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    },
+    {
+      "name": "Open",
+      "type": "float"
+    },
+    {
+      "name": "High",
+      "type": "float"
+    },
+    {
+      "name": "Low",
+      "type": "float"
+    },
+    {
+      "name": "Close",
+      "type": "float"
+    },
+    {
+      "name": "Volume",
+      "type": "string"
+    },
+    {
+      "name": "MarketCap",
+      "type": "string"
+    }
+  ]
+}
